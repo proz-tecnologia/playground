@@ -30,8 +30,8 @@ Abra o projeto em um editor de código ou IDE de sua preferência e execute o co
 Todos os projetos deste repositório foram criados com `Dart 2.18.1 (stable)` e `Flutter 3.3.2 (stable)`.
 
 ### Projetos Dart
-[x] Say My Name - app que escreve seu nome no terminal com base na entrada de dados
-[x] SayMyAge - app que calcula a idade com base no ano atual
+- [x] Say My Name - app que escreve seu nome no terminal com base na entrada de dados
+- [x] SayMyAge - app que calcula a idade com base no ano atual
 
 ### Projetos Flutter
-[x] Bandeira - app que faz uma bandeira usando o widget Container
+- [x] Bandeira - app que faz uma bandeira usando o widget Container
