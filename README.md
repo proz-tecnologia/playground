@@ -34,4 +34,4 @@ Todos os projetos deste repositório foram criados com `Dart 2.18.1 (stable)` e 
 - [x] SayMyAge - app que calcula a idade com base no ano atual
 
 ### Projetos Flutter
-- [x] Bandeira - app que faz uma bandeira usando o widget Container
+- [x] Flag - app que faz uma bandeira usando o widget Container
