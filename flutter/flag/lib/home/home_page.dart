@@ -19,11 +19,11 @@ class _HomePageState extends State<HomePage> {
           title: Text(widget.title),
         ),
         body: const Center(
-          //TODO: escolha uma bandeira e tente recriá-la usando apenas o Container e suas propriedades
+          //TODO:[FLAG][TASK] escolha uma bandeira e tente recriá-la usando apenas o Container e suas propriedades
           //
-          //TODO: use os widgets criados como referencia para fazer as suas próprias
+          //TODO:[FLAG][TASK] use os widgets criados como referencia para fazer as suas próprias
           //
-          //TODO: após criar sua bandeira, chame a classe no parâmetro child abaixo
+          //TODO: [FLAG][TASK] após criar sua bandeira, chame a classe no parâmetro child abaixo
           child: FranceFlagWidget(),
         ));
   }
