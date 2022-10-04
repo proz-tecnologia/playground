@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+## Formy
 
-This project is a starting point for a Flutter application.
+Olá, dev! Você ficou responsável pela tarefa de construir a página de login e registro do app Formy.
 
-A few resources to get you started if this is your first Flutter project:
+O time de design trabalhou duro e nos entregou uma visão do que se espera para essas telas. O resultado esperado deve estar de acordo com o seguinte modelo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![formy](figma/2022-10-04-09-21-24.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Desafio
+Utilizando todos os seus conhecimentos sobre construção de telas, formulários e componentização, realize a entrega dessas telas. Aceita o desafio?
+
+## Dicas
+Utilize os comentários `TODO` para se orientar sobre o que é necessário fazer. Você encontrará algumas indicações:
+- `[TASK]` - orienta a tarefa a ser realizada
+- `[INFO]` - orienta sobre alguma informação que servirá como auxiliar para você concluir suas tarefas
+- `[DOC]` - indica o link para a documentação oficial sobre algum assunto específico
+- `[FIGMA]` - indica o link para o componente no figma
