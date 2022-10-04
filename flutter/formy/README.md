@@ -1,7 +1,3 @@
-# formy
-
-A new Flutter project.
-
 ## Formy
 
 Olá, dev! Você ficou responsável pela tarefa de construir a página de login e registro do app Formy.
@@ -19,3 +15,5 @@ Utilize os comentários `TODO` para se orientar sobre o que é necessário fazer
 - `[INFO]` - orienta sobre alguma informação que servirá como auxiliar para você concluir suas tarefas
 - `[DOC]` - indica o link para a documentação oficial sobre algum assunto específico
 - `[FIGMA]` - indica o link para o componente no figma
+
+[Créditos do Figma](https://www.figma.com/community/file/1153510982026285337)
