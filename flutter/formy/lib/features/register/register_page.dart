@@ -15,20 +15,16 @@ class RegisterPage extends StatefulWidget {
 class _RegisterPageState extends State<RegisterPage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      //TODO: [FORMY][TASK] adicionar um widget de layout vertical para receber widgets filhos
-      body: Column(
-        children: const [
-          //TODO: [FORMY][TASK] adicionar um widget para receber a parte de cima da tela
-          //TODO: [FORMY][FIGMA] https://www.figma.com/file/JbPkBsdC7B2L8sptZla9mO/Login-%26-Register-(Community)?node-id=5%3A119
+    return const Scaffold(
+        //TODO: [FORMY][TASK] adicionar um widget de layout vertical para receber widgets filhos
+        //TODO: [FORMY][TASK] adicionar um widget para receber a parte de cima da tela
+        //TODO: [FORMY][FIGMA] https://www.figma.com/file/JbPkBsdC7B2L8sptZla9mO/Login-%26-Register-(Community)?node-id=5%3A119
 
-          //TODO: [FORMY][TASK] adicionar widget que receberá widget(s) para a construção do formulário
-          //TODO: [FORMY][FIGMA] https://www.figma.com/file/JbPkBsdC7B2L8sptZla9mO/Login-%26-Register-(Community)?node-id=210%3A2
+        //TODO: [FORMY][TASK] adicionar widget que receberá widget(s) para a construção do formulário
+        //TODO: [FORMY][FIGMA] https://www.figma.com/file/JbPkBsdC7B2L8sptZla9mO/Login-%26-Register-(Community)?node-id=210%3A2
 
-          //TODO [FORMY][INFO] lembre-se de usar widget com scroll apenas para a parte de baixo da tela, conforme mostra o resultado esperado no figma
-        ],
-      ),
-    );
+        //TODO [FORMY][INFO] lembre-se de usar widget com scroll apenas para a parte de baixo da tela, conforme mostra o resultado esperado no figma
+        );
   }
 }
 
