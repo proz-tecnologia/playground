@@ -32,6 +32,7 @@ Todos os projetos deste repositório foram criados com `Dart 2.18.1 (stable)` e 
 ### Projetos Dart
 - [x] Say My Name - app que escreve seu nome no terminal com base na entrada de dados
 - [x] SayMyAge - app que calcula a idade com base no ano atual
+- [x] Listy - app com desafio para gerenciamento de listas e mapas
 
 ### Projetos Flutter
 - [x] Flag - app que faz uma bandeira usando o widget Container
