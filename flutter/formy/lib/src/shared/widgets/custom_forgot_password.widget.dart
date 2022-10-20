@@ -9,6 +9,7 @@ class CustomForgotPassWidget extends StatefulWidget {
 }
 
 class _CustomForgotPassWidgetState extends State<CustomForgotPassWidget> {
+  bool isChecked = false;
   @override
   Widget build(BuildContext context) {
     return Row(
@@ -21,10 +22,10 @@ class _CustomForgotPassWidgetState extends State<CustomForgotPassWidget> {
               side: const BorderSide(),
               onChanged: (bool? value) {
                 setState(() {
-                  value = true;
+                  isChecked = value!;
                 });
               },
-              value: false,
+              value: isChecked,
             ),
             const Text(
               'Stay logged in ?',

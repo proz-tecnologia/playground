@@ -14,6 +14,9 @@ class CustomAvatarComponent extends StatelessWidget {
           backgroundColor: AppColors.white,
           child: Image.asset('assets/icons/gmailIcon.png'),
         ),
+        const SizedBox(
+          width: 16,
+        ),
         CircleAvatar(
           radius: 20,
           backgroundColor: AppColors.white,

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:formy/src/shared/constants/app_colors.dart';
 import 'package:formy/src/shared/constants/app_text_theme.dart';
 
 class CustomDividerComponent extends StatelessWidget {
@@ -11,9 +10,7 @@ class CustomDividerComponent extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: const [
         Expanded(
-          child: Divider(
-            color: AppColors.gray,
-          ),
+          child: Divider(),
         ),
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 8.0),
