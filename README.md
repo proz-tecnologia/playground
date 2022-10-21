@@ -37,3 +37,4 @@ Todos os projetos deste repositório foram criados com `Dart 2.18.1 (stable)` e 
 ### Projetos Flutter
 - [x] Flag - app que faz uma bandeira usando o widget Container
 - [x] Formy - app com desafio para construção de formulários a partir do figma
+- [x] Cripty - app com desafio para componentização de widgets
